@@ -1,0 +1,15 @@
+C:\Users\DELL\Downloads\Member4_UI\obj\Debug\net10.0-windows\Member4_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Member4_UI\obj\Debug\net10.0-windows\Member4_UI.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Member4_UI\obj\Debug\net10.0-windows\Member4_UI.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Member4_UI\obj\Debug\net10.0-windows\Member4_UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Member4_UI\bin\Debug\net10.0-windows\SapphireData.csv
+C:\Users\DELL\Downloads\Member4_UI\bin\Debug\net10.0-windows\Member4_UI.exe
+C:\Users\DELL\Downloads\Member4_UI\bin\Debug\net10.0-windows\Member4_UI.deps.json
+C:\Users\DELL\Downloads\Member4_UI\bin\Debug\net10.0-windows\Member4_UI.runtimeconfig.json
+C:\Users\DELL\Downloads\Member4_UI\bin\Debug\net10.0-windows\Member4_UI.dll
+C:\Users\DELL\Downloads\Member4_UI\bin\Debug\net10.0-windows\Member4_UI.pdb
+C:\Users\DELL\Downloads\Member4_UI\obj\Debug\net10.0-windows\Member4_UI.dll
+C:\Users\DELL\Downloads\Member4_UI\obj\Debug\net10.0-windows\refint\Member4_UI.dll
+C:\Users\DELL\Downloads\Member4_UI\obj\Debug\net10.0-windows\Member4_UI.pdb
+C:\Users\DELL\Downloads\Member4_UI\obj\Debug\net10.0-windows\Member4_UI.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Member4_UI\obj\Debug\net10.0-windows\ref\Member4_UI.dll
